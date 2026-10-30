@@ -39,6 +39,14 @@ At week 16, the mean log10 change in clindamycin-resistant C. acnes counts was -
 
 At week 16, the median reduction in total acne lesion counts was 52.7% for combination therapy and 27.5% for clindamycin alone, representing a 25.2-percentage-point difference in reduction.
 
+3. Between-Group Resistance Comparison
+
+To further examine the differences between treatments, I calculated the difference in mean log10 changes in clindamycin-resistant C. acnes counts between the two groups at each time point.
+
+The difference increased from 0.0 at week 4 to 1.4 log10 units at week 16, with higher values in the clindamycin-only group.
+
+This additional analysis is descriptive and based on published group-level summary statistics. No new statistical significance tests were performed.
+
 ## Tools Used
 - Python
 - Pandas
