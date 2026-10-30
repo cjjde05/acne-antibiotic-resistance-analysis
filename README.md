@@ -38,7 +38,7 @@ Between-group comparison: The descriptive difference in mean log10 changes in re
 
 These calculations use published group-level summary statistics. No new statistical significance tests were performed.
 
-#### Project Files: Analysis_1_Cunliffe_2002
+#### Project Files: [Analysis_1_Cunliffe_2002](https://github.com/cjjde05/acne-antibiotic-resistance-analysis/tree/main/Analysis_1_Cunliffe_2002) 
 
 ## Analysis 2: Antibiotic Resistance Across Published Studies
 
@@ -68,7 +68,7 @@ Geographic differences: Descriptive clindamycin resistance percentages also diff
 
 These findings describe patterns in the extracted dataset and should not be interpreted as causal relationships or nationally representative resistance estimates.
 
-#### Project Files: Analysis_2_Zhu_2025
+#### Project Files: https://github.com/cjjde05/acne-antibiotic-resistance-analysis/tree/main/Analysis_2_Zhu_2025
 
 ## Tools and Skills
 - Python: Data analysis and reproducible workflows
