@@ -97,7 +97,7 @@ Genetic differences: The results show that different mutations can be associated
 
 These findings help explain how antibiotic resistance can develop at the molecular level. However, this analysis only describes the resistant isolates reported in the study and does not measure how common these mutations are in the general C. acnes population.
 
-#### Project Files: [Analysis_3_Ross_1997](https://github.com/cjjde05/acne-antibiotic-resistance-analysis/tree/main/Analysis_3_Ross_1997)
+#### Project Files: [Analysis_3_Ross_1997](https://github.com/cjjde05/acne-antibiotic-resistance-analysis/tree/main/Analysis_3_Ross_1997_files)
 
 
 ## Analysis 4: Topical Combination Treatment and Antibiotic Resistance
