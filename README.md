@@ -68,8 +68,8 @@ Geographic differences: Descriptive clindamycin resistance percentages also diff
 
 These findings describe patterns in the extracted dataset and should not be interpreted as causal relationships or nationally representative resistance estimates.
 
-#### Project Files: https://github.com/cjjde05/acne-antibiotic-resistance-analysis/tree/main/Analysis_2_Zhu_2025
-
+#### Project Files: [Analysis_2_Zhu_2025](https://github.com/cjjde05/acne-antibiotic-resistance-analysis/tree/main/Analysis_2_Zhu_2025)
+ 
 ## Tools and Skills
 - Python: Data analysis and reproducible workflows
 - Pandas: Data organization and descriptive calculations
