@@ -69,7 +69,71 @@ Geographic differences: Descriptive clindamycin resistance percentages also diff
 These findings describe patterns in the extracted dataset and should not be interpreted as causal relationships or nationally representative resistance estimates.
 
 #### Project Files: [Analysis_2_Zhu_2025](https://github.com/cjjde05/acne-antibiotic-resistance-analysis/tree/main/Analysis_2_Zhu_2025)
- 
+
+## Analysis 3: Genetic Mechanisms of Antibiotic Resistance
+
+#### Source: Ross et al. (1997), study of antibiotic-resistant clinical isolates.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC163871/
+
+#### Methods
+
+I used published data from Ross et al. (1997) to examine genetic mutations associated with antibiotic resistance in acne-related bacteria.
+
+Using Python, Pandas, and Matplotlib, I:
+- Organized data from 26 mutation-positive resistant clinical isolates.
+- Calculated the frequency of three reported 23S rRNA mutations.
+- Compared mutation patterns and reported antibiotic susceptibility.
+- Created graphs to show the distribution of resistance-related mutations.
+
+The 26 clinical isolates included 22 P. acnes isolates (now called C. acnes) and 4 isolates from other related species.
+
+#### Key Findings
+
+Mutation frequencies: A2058G was found in 13 isolates (50.0%), A2059G in 7 isolates (26.9%), and G2057A in 6 isolates (23.1%).
+
+Resistance mechanisms: These mutations affect the bacterial ribosome, which is a target of certain antibiotics. Changes in this region can reduce antibiotic effectiveness.
+
+Genetic differences: The results show that different mutations can be associated with antibiotic resistance.
+
+These findings help explain how antibiotic resistance can develop at the molecular level. However, this analysis only describes the resistant isolates reported in the study and does not measure how common these mutations are in the general C. acnes population.
+
+#### Project Files: [Analysis_3_Ross_1997](https://github.com/cjjde05/acne-antibiotic-resistance-analysis/tree/main/Analysis_3_Ross_1997)
+
+
+## Analysis 4: Topical Combination Treatment and Antibiotic Resistance
+
+#### Source: Ghannoum et al. (2025), 24-week analysis of topical combination treatment.
+https://pubmed.ncbi.nlm.nih.gov/41187231/
+
+#### Methods
+
+I used published data from Ghannoum et al. (2025) to examine changes in C. acnes detection and clindamycin resistance during treatment with clindamycin, adapalene, and benzoyl peroxide.
+
+Using Python, Pandas, and Matplotlib, I:
+- Organized bacterial detection and resistance data from 45 participants who completed the study.
+- Compared C. acnes detection and susceptibility at baseline and Week 24.
+- Examined how participants' bacterial detection and resistance status changed over time.
+- Analyzed acne lesion improvement at Week 12 among participants with resistant bacteria.
+- Calculated the percentage of resistant cases among participants with detectable C. acnes.
+- Created five graphs to visualize the results.
+
+This was a descriptive analysis of published data from two pooled, open-label studies without a control group.
+
+#### Key Findings
+
+Bacterial detection: The percentage of participants with detectable C. acnes decreased from 82.2% (37/45) at baseline to 44.4% (20/45) at Week 24.
+
+Antibiotic resistance: The number of participants with clindamycin-resistant C. acnes remained at 5. No new cases of detectable resistance were observed.
+
+Acne improvement: All 5 participants with resistant bacteria at baseline showed reductions in acne lesions at Week 12.
+
+Resistance percentage: Among participants with detectable C. acnes, the percentage with resistant bacteria increased from 13.5% to 25.0%. This increase occurred because fewer participants had detectable C. acnes overall, while the number with resistant bacteria stayed the same.
+
+These findings show that a decrease in bacterial detection does not necessarily mean a decrease in antibiotic resistance. However, because the original studies had no control group, the results cannot prove that combination treatment prevents resistance.
+
+#### Project Files: [Analysis_4_Ghannoum_2025](https://github.com/cjjde05/acne-antibiotic-resistance-analysis/tree/main/Analysis_4_Ghannoum_2025)
+
+
 ## Tools and Skills
 - Python: Data analysis and reproducible workflows
 - Pandas: Data organization and descriptive calculations
