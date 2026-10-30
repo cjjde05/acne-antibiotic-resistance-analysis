@@ -9,10 +9,10 @@ The goal is to better understand antibiotic resistance in acne treatment while b
 
 ## Research Questions
 
-1. What patterns of antibiotic resistance are reported in C. acnes across different antibiotics and studies?
-2. How do clindamycin-resistant bacterial counts change during topical acne treatment?
-3. How does combining clindamycin with benzoyl peroxide compare with clindamycin monotherapy?
-4. What limitations should be considered when interpreting published antibiotic resistance data?
+1. What patterns of antibiotic resistance are reported in *C. acnes* across published studies?
+2. What genetic mutations are associated with antibiotic resistance in *C. acnes* and related bacteria?
+3. How does clindamycin monotherapy compare with combination treatment in terms of antibiotic resistance and acne improvement?
+4. How do bacterial detection and resistance change during long-term topical combination treatment?
 
 ## Analysis 1: Clindamycin Monotherapy vs. Combination Therapy
 
@@ -123,7 +123,7 @@ This was a descriptive analysis of published data from two pooled, open-label st
 
 Bacterial detection: The percentage of participants with detectable C. acnes decreased from 82.2% (37/45) at baseline to 44.4% (20/45) at Week 24.
 
-Antibiotic resistance: The number of participants with clindamycin-resistant C. acnes remained at 5. No new cases of detectable resistance were observed.
+Antibiotic resistance: The number of participants with clindamycin-resistant C. acnes remained at 5. No participants without detectable resistance at baseline had resistant bacteria detected at Week 24.
 
 Acne improvement: All 5 participants with resistant bacteria at baseline showed reductions in acne lesions at Week 12.
 
@@ -152,7 +152,7 @@ This project uses published data rather than original patient-level data. All fo
 
 ## Future Directions
 
-Future research could examine how antibiotic use leads to resistance, compare antibiotic and non-antibiotic acne treatments, and investigate which treatment strategies best reduce resistance while improving acne.
+Future research could compare long-term antibiotic and non-antibiotic acne treatments, examine how resistance develops over time, and explore ways to improve acne while reducing antibiotic resistance.
 
 ## Author
 
