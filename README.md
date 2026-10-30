@@ -1,11 +1,11 @@
 # Antibiotic Resistance in Cutibacterium acnes: A Python-Based Analysis
 ## Project Overview
 
-This independent research project explores antibiotic resistance in Cutibacterium acnes, a bacterium associated with acne vulgaris. It examines patterns of antibiotic resistance across published studies and compares the effects of topical clindamycin alone versus clindamycin combined with benzoyl peroxide (BPO).
+This independent research project explores antibiotic resistance in *Cutibacterium acnes*, a bacterium associated with acne.
 
-Using published research data, I conducted two descriptive secondary analyses with Python. The first examines treatment-related changes in antibiotic-resistant bacterial counts and acne lesions over 16 weeks. The second explores antibiotic resistance rates across 23 published studies involving 2,046 C. acnes isolates.
+Using published research data and Python, I conducted four descriptive analyses focusing on topical antibiotic treatments, resistance rates across studies, genetic mutations linked to resistance, and changes in bacterial resistance during combination treatment.
 
-The goal is to better understand antibiotic resistance in acne treatment while developing practical skills in data extraction, analysis, visualization, and reproducible research.
+The goal is to better understand antibiotic resistance in acne treatment while building skills in data analysis, visualization, and scientific research.
 
 ## Research Questions
 
@@ -142,16 +142,17 @@ These findings show that a decrease in bacterial detection does not necessarily 
 - GitHub: Project organization and documentation
 
 ## Limitations
-This project uses published summary data rather than individual patient-level observations. Both analyses are descriptive and do not represent new clinical trials or independent meta-analyses.
 
-In Analysis 1, the findings are based on a single clinical trial and cannot be generalized to all patients or treatment settings.
+This project uses published data rather than original patient-level data. All four analyses are descriptive and cannot establish cause-and-effect relationships.
 
-In Analysis 2, studies differed in geographic location, sample size, antibiotic susceptibility testing methods, and resistance criteria. Not all studies reported results for every antibiotic. The aggregate percentages assume that the study-level isolate counts are appropriate denominators for each reported antibiotic; the supplementary table does not independently confirm antibiotic-specific testing denominators.
-
-The descriptive aggregate resistance percentages should not be confused with the pooled estimates from Zhu et al. (2025), which used meta-analytic methods.
+- **Analysis 1:** Results come from one clinical trial and may not apply to all patients.
+- **Analysis 2:** Studies used different methods and sample sizes, making direct comparisons difficult. The calculated percentages are not pooled meta-analysis estimates.
+- **Analysis 3:** The dataset includes only selected resistant isolates, including some bacteria other than *C. acnes*.
+- **Analysis 4:** The study had no control group, so it cannot show whether combination treatment prevents antibiotic resistance.
 
 ## Future Directions
-Future work will focus on reviewing molecular mechanisms of antibiotic resistance in C. acnes, examining evidence related to antibiotic exposure, and evaluating non-antibiotic or combination acne treatment strategies.
+
+Future research could examine how antibiotic use leads to resistance, compare antibiotic and non-antibiotic acne treatments, and investigate which treatment strategies best reduce resistance while improving acne.
 
 ## Author
 
