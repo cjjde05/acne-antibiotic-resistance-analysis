@@ -154,6 +154,14 @@ This project uses published data rather than original patient-level data. All fo
 
 Future research could compare long-term antibiotic and non-antibiotic acne treatments, examine how resistance develops over time, and explore ways to improve acne while reducing antibiotic resistance.
 
+## Research Paper
+
+**Topical Antibiotic Use and Antimicrobial Resistance in Cutibacterium acnes**
+
+This paper presents a literature review and descriptive analysis of four published studies on antibiotic resistance in C. acnes.
+
+[Read the full research paper](research-paper.pdf)
+
 ## Author
 
 Claire Jeong  
